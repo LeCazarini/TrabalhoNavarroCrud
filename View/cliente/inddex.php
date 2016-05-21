@@ -7,7 +7,7 @@ $usuarios = $dao_usuario->selectAll();
 ?>
 <div class="container">
     <div class="text-right">
-        <a href="editar.php" class="btn btn-sm btn-primary">Adicionar Usuário</a>
+        <a href="/MVC/View/adicionar.php" class="btn btn-sm btn-primary">Adicionar Usuário</a>
     </div>
     <table class="table tablet-striped">
         <thead>

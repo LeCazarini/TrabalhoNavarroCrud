@@ -31,7 +31,7 @@ class DAO_Usuario{
         return $response;
     }
     
-    public function insert(Model_Usuario $usuario){
+    public function insert(Model_Cliente $usuario){
         
         $this->_con->connect();
         

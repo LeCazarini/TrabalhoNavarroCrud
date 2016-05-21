@@ -23,17 +23,29 @@
         <form class="form-signin" method="POST" action="../Controller/authentication.php">
           
            <h2 class="form-signin-heading" style="text-align: center;">Área Restrita</h2>
+           <br/>
+           <br/>
+           <br/>
            <div class="form-group">
              <input type="email" name="email" class="form-control" placeholder="Digite o email" style="width: 100%;" required autofocus><br/>
+             <br/>
              <input type="password" name="senha" class="form-control" style="width: 100%;" placeholder="Digite a senha" required> 
            </div>
+           <br/>
            <div class="checkbox">
               <label>
                 <input type="checkbox" value="remember-me"> Lembrar senha
               </label>
             </div>
+            <br/>
+            
             <button class="btn btn-lg btn-primary btn-block" type="submit">Acessar</button>
         </form>
+        <center>
+                    <p class="m-t">
+            	            	<small>All Rights Reserved <strong>AcademiaWeb</strong>, Inc.</small>
+				            </p>
+              </center>
     </div> 
 </body>
 </html>
