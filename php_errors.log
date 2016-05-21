@@ -1,0 +1,390 @@
+[12-May-2016 04:51:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/Controller/ope.php on line 8
+[12-May-2016 04:51:02 UTC] PHP Stack trace:
+[12-May-2016 04:51:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/ope.php:0
+[12-May-2016 04:51:02 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/Controller/ope.php:8
+[12-May-2016 05:42:31 UTC] PHP Warning:  mysql_connect(): Access denied for user 'cazarini'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 9
+[12-May-2016 05:42:31 UTC] PHP Stack trace:
+[12-May-2016 05:42:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:42:31 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:9
+[12-May-2016 05:43:28 UTC] PHP Warning:  mysql_connect(): Access denied for user 'cazarini'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 9
+[12-May-2016 05:43:28 UTC] PHP Stack trace:
+[12-May-2016 05:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:43:28 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:9
+[12-May-2016 05:44:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 9
+[12-May-2016 05:44:44 UTC] PHP Stack trace:
+[12-May-2016 05:44:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:44:44 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:9
+[12-May-2016 05:51:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 10
+[12-May-2016 05:51:07 UTC] PHP Stack trace:
+[12-May-2016 05:51:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:51:07 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:10
+[12-May-2016 05:53:45 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 10
+[12-May-2016 05:53:45 UTC] PHP Stack trace:
+[12-May-2016 05:53:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:53:45 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:10
+[12-May-2016 05:54:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/View/ope.php on line 10
+[12-May-2016 05:54:41 UTC] PHP Stack trace:
+[12-May-2016 05:54:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/ope.php:0
+[12-May-2016 05:54:41 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/MVC/View/ope.php:10
+[12-May-2016 05:55:16 UTC] PHP Warning:  Unterminated comment starting line 5 in /home/ubuntu/workspace/MVC/Controller/site.php on line 5
+[12-May-2016 05:56:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'cazarini'@'localhost' (using password: YES) in /home/ubuntu/workspace/MVC/DAO/conectionDB.php on line 10
+[12-May-2016 05:56:07 UTC] PHP Stack trace:
+[12-May-2016 05:56:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/DAO/conectionDB.php:0
+[12-May-2016 05:56:07 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/MVC/DAO/conectionDB.php:10
+[12-May-2016 05:58:39 UTC] PHP Warning:  Unterminated comment starting line 5 in /home/ubuntu/workspace/MVC/View/site.php on line 5
+[13-May-2016 02:52:14 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:52:14 UTC] PHP Stack trace:
+[13-May-2016 02:52:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:52:14 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 02:54:23 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:54:23 UTC] PHP Stack trace:
+[13-May-2016 02:54:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:54:23 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 02:55:32 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:55:32 UTC] PHP Stack trace:
+[13-May-2016 02:55:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:55:32 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 02:55:44 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:55:44 UTC] PHP Stack trace:
+[13-May-2016 02:55:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/conectionDB.php:0
+[13-May-2016 02:56:30 UTC] PHP Warning:  include_once(../MVC/Controller/conectionDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 02:56:30 UTC] PHP Stack trace:
+[13-May-2016 02:56:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:56:30 UTC] PHP Warning:  include_once(): Failed opening '../MVC/Controller/conectionDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 02:56:30 UTC] PHP Stack trace:
+[13-May-2016 02:56:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:58:04 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:58:04 UTC] PHP Stack trace:
+[13-May-2016 02:58:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:58:04 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 02:59:48 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 02:59:48 UTC] PHP Stack trace:
+[13-May-2016 02:59:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 02:59:48 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 03:02:17 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectionDB.php on line 4
+[13-May-2016 03:02:17 UTC] PHP Stack trace:
+[13-May-2016 03:02:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:02:17 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 03:03:21 UTC] PHP Warning:  include_once(conectionDBphp): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:03:21 UTC] PHP Stack trace:
+[13-May-2016 03:03:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:03:21 UTC] PHP Warning:  include_once(): Failed opening 'conectionDBphp' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:03:21 UTC] PHP Stack trace:
+[13-May-2016 03:03:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:04:48 UTC] PHP Warning:  include_once(conectionDBphp): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:04:48 UTC] PHP Stack trace:
+[13-May-2016 03:04:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:04:48 UTC] PHP Warning:  include_once(): Failed opening 'conectionDBphp' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:04:48 UTC] PHP Stack trace:
+[13-May-2016 03:04:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:05:46 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectiondb.php on line 4
+[13-May-2016 03:05:46 UTC] PHP Stack trace:
+[13-May-2016 03:05:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:05:46 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 03:13:59 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectiondb.php on line 4
+[13-May-2016 03:13:59 UTC] PHP Stack trace:
+[13-May-2016 03:13:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:13:59 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 03:14:18 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectiondb.php on line 4
+[13-May-2016 03:14:18 UTC] PHP Stack trace:
+[13-May-2016 03:14:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/conectiondb.php:0
+[13-May-2016 03:17:05 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conectiondb.php on line 4
+[13-May-2016 03:17:05 UTC] PHP Stack trace:
+[13-May-2016 03:17:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:17:05 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:10
+[13-May-2016 03:23:20 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/MVC/Controller/conectiondb.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:23:20 UTC] PHP Stack trace:
+[13-May-2016 03:23:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:23:20 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/MVC/Controller/conectiondb.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:23:20 UTC] PHP Stack trace:
+[13-May-2016 03:23:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:25:59 UTC] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:25:59 UTC] PHP Stack trace:
+[13-May-2016 03:25:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:25:59 UTC] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 03:25:59 UTC] PHP Stack trace:
+[13-May-2016 03:25:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:43:17 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:43:17 UTC] PHP Stack trace:
+[13-May-2016 03:43:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:43:17 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:45:22 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:45:22 UTC] PHP Stack trace:
+[13-May-2016 03:45:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:45:22 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:49:31 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:49:31 UTC] PHP Stack trace:
+[13-May-2016 03:49:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:49:31 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:49:45 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:49:45 UTC] PHP Stack trace:
+[13-May-2016 03:49:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:49:45 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:54:34 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:54:34 UTC] PHP Stack trace:
+[13-May-2016 03:54:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:54:34 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:56:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:56:36 UTC] PHP Stack trace:
+[13-May-2016 03:56:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:56:36 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:57:35 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:57:35 UTC] PHP Stack trace:
+[13-May-2016 03:57:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:57:35 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 03:59:06 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 03:59:06 UTC] PHP Stack trace:
+[13-May-2016 03:59:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 03:59:06 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 04:09:38 UTC] PHP Warning:  include_once(../MVC/Controller/conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 7
+[13-May-2016 04:09:38 UTC] PHP Stack trace:
+[13-May-2016 04:09:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:09:38 UTC] PHP Warning:  include_once(): Failed opening '../MVC/Controller/conexao.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 7
+[13-May-2016 04:09:38 UTC] PHP Stack trace:
+[13-May-2016 04:09:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:10:05 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 04:10:05 UTC] PHP Stack trace:
+[13-May-2016 04:10:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:10:05 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 04:10:58 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 04:10:58 UTC] PHP Stack trace:
+[13-May-2016 04:10:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/conexao.php:0
+[13-May-2016 04:11:41 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 04:11:41 UTC] PHP Stack trace:
+[13-May-2016 04:11:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:11:41 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 04:16:19 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 04:16:19 UTC] PHP Stack trace:
+[13-May-2016 04:16:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:16:19 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 04:17:35 UTC] PHP Warning:  include_once(conexaophp): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 7
+[13-May-2016 04:17:35 UTC] PHP Stack trace:
+[13-May-2016 04:17:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 04:17:35 UTC] PHP Warning:  include_once(): Failed opening 'conexaophp' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 7
+[13-May-2016 04:17:35 UTC] PHP Stack trace:
+[13-May-2016 04:17:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 12:17:51 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 12:17:51 UTC] PHP Stack trace:
+[13-May-2016 12:17:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 12:17:51 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 12:28:17 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 12:28:17 UTC] PHP Stack trace:
+[13-May-2016 12:28:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 12:28:17 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 13:29:19 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 13:29:19 UTC] PHP Stack trace:
+[13-May-2016 13:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 13:29:19 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 13:30:13 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 13:30:13 UTC] PHP Stack trace:
+[13-May-2016 13:30:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 13:30:13 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:7
+[13-May-2016 13:30:45 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 13:30:45 UTC] PHP Stack trace:
+[13-May-2016 13:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 13:30:45 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:3
+[13-May-2016 13:31:08 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 13:31:08 UTC] PHP Stack trace:
+[13-May-2016 13:31:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 13:31:08 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:3
+[13-May-2016 17:45:18 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 17:45:18 UTC] PHP Stack trace:
+[13-May-2016 17:45:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 17:45:18 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:3
+[13-May-2016 17:46:08 UTC] PHP Warning:  include_once(/Controller/conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 3
+[13-May-2016 17:46:08 UTC] PHP Stack trace:
+[13-May-2016 17:46:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 17:46:08 UTC] PHP Warning:  include_once(): Failed opening '/Controller/conexao.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 3
+[13-May-2016 17:46:08 UTC] PHP Stack trace:
+[13-May-2016 17:46:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 17:47:11 UTC] PHP Warning:  include_once(/Controller/conexao.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/Controller/verification.php on line 3
+[13-May-2016 17:47:11 UTC] PHP Stack trace:
+[13-May-2016 17:47:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 17:47:11 UTC] PHP Warning:  include_once(): Failed opening '/Controller/conexao.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/Controller/verification.php on line 3
+[13-May-2016 17:47:11 UTC] PHP Stack trace:
+[13-May-2016 17:47:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 17:47:49 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 6
+[13-May-2016 17:50:24 UTC] PHP Parse error:  syntax error, unexpected 'usuario' (T_STRING) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 6
+[13-May-2016 17:51:44 UTC] PHP Parse error:  syntax error, unexpected '$usuariot' (T_VARIABLE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 12
+[13-May-2016 17:53:44 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:12:33 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:13:05 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:13:52 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:14:04 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:16:47 UTC] PHP Parse error:  syntax error, unexpected ''"../Controller/conexao.php");' (T_ENCAPSED_AND_WHITESPACE) in /home/ubuntu/workspace/MVC/Controller/verification.php on line 10
+[13-May-2016 21:17:31 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 21:17:31 UTC] PHP Stack trace:
+[13-May-2016 21:17:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 21:17:31 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:3
+[13-May-2016 21:19:49 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/MVC/Controller/conexao.php on line 4
+[13-May-2016 21:19:49 UTC] PHP Stack trace:
+[13-May-2016 21:19:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 21:19:49 UTC] PHP   2. include_once() /home/ubuntu/workspace/MVC/Controller/verification.php:3
+[13-May-2016 21:19:49 UTC] PHP   3. mysqli_select_db() /home/ubuntu/workspace/MVC/Controller/conexao.php:4
+[13-May-2016 22:14:26 UTC] PHP Fatal error:  Class 'DAO_Usuario' not found in /home/ubuntu/workspace/MVC/Controller/verification.php on line 4
+[13-May-2016 22:14:26 UTC] PHP Stack trace:
+[13-May-2016 22:14:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:14:56 UTC] PHP Fatal error:  Class 'DAO_Usuario' not found in /home/ubuntu/workspace/MVC/Controller/verification.php on line 4
+[13-May-2016 22:14:56 UTC] PHP Stack trace:
+[13-May-2016 22:14:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:17:06 UTC] PHP Fatal error:  Class 'DAO_Usuario' not found in /home/ubuntu/workspace/MVC/Controller/verification.php on line 4
+[13-May-2016 22:17:06 UTC] PHP Stack trace:
+[13-May-2016 22:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:21:19 UTC] PHP Fatal error:  Class 'DAO_Usuario' not found in /home/ubuntu/workspace/MVC/Controller/verification.php on line 4
+[13-May-2016 22:21:19 UTC] PHP Stack trace:
+[13-May-2016 22:21:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:25:03 UTC] PHP Warning:  include_once(Connnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 2
+[13-May-2016 22:25:03 UTC] PHP Stack trace:
+[13-May-2016 22:25:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:25:03 UTC] PHP   2. include() /home/ubuntu/workspace/MVC/Controller/verification.php:2
+[13-May-2016 22:25:03 UTC] PHP Warning:  include_once(): Failed opening 'Connnect.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 2
+[13-May-2016 22:25:03 UTC] PHP Stack trace:
+[13-May-2016 22:25:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:25:03 UTC] PHP   2. include() /home/ubuntu/workspace/MVC/Controller/verification.php:2
+[13-May-2016 22:25:03 UTC] PHP Fatal error:  Class 'DAO_Connect' not found in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 9
+[13-May-2016 22:25:03 UTC] PHP Stack trace:
+[13-May-2016 22:25:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:25:03 UTC] PHP   2. DAO_Usuario->__construct() /home/ubuntu/workspace/MVC/Controller/verification.php:5
+[13-May-2016 22:25:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Ocorreu um erro : Table 'bancotrabalho.usuario' doesn't exist' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:20
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(6): DAO_Usuario->isAuthenticated('administrador@l...', 'admin')
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 20
+[13-May-2016 22:30:45 UTC] PHP Fatal error:  Call to undefined method Model_Usuario::getSenha() in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 48
+[13-May-2016 22:30:45 UTC] PHP Stack trace:
+[13-May-2016 22:30:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:30:45 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:28
+[13-May-2016 22:33:22 UTC] PHP Fatal error:  Call to undefined method DAO_Connect::getLin() in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:33:22 UTC] PHP Stack trace:
+[13-May-2016 22:33:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:33:22 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:28
+[13-May-2016 22:33:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'nivel_acesso' in 'field list'' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(28): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:34:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'nivel_acessos' in 'field list'' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(28): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:34:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'nivel_acessos_id' in 'field list'' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(28): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:34:41 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 51
+[13-May-2016 22:34:41 UTC] PHP Stack trace:
+[13-May-2016 22:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:34:41 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:34:41 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:51
+[13-May-2016 22:34:41 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:34:41 UTC] PHP Stack trace:
+[13-May-2016 22:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:34:41 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:34:41 UTC] PHP   3. mysqli_error() /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+[13-May-2016 22:34:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(29): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:36:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 50
+[13-May-2016 22:36:23 UTC] PHP Stack trace:
+[13-May-2016 22:36:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:36:23 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:36:23 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:50
+[13-May-2016 22:36:23 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:36:23 UTC] PHP Stack trace:
+[13-May-2016 22:36:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:36:23 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:36:23 UTC] PHP   3. mysqli_error() /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+[13-May-2016 22:36:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(29): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:37:39 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 50
+[13-May-2016 22:37:39 UTC] PHP Stack trace:
+[13-May-2016 22:37:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:37:39 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:37:39 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:50
+[13-May-2016 22:37:39 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:37:39 UTC] PHP Stack trace:
+[13-May-2016 22:37:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:37:39 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:37:39 UTC] PHP   3. mysqli_error() /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+[13-May-2016 22:37:39 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(29): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:38:22 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 50
+[13-May-2016 22:38:22 UTC] PHP Stack trace:
+[13-May-2016 22:38:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:38:22 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:38:22 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:50
+[13-May-2016 22:38:22 UTC] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:38:22 UTC] PHP Stack trace:
+[13-May-2016 22:38:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:38:22 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:38:22 UTC] PHP   3. mysqli_error() /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+[13-May-2016 22:38:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:53
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(29): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 53
+[13-May-2016 22:38:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 50
+[13-May-2016 22:38:52 UTC] PHP Stack trace:
+[13-May-2016 22:38:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:38:52 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:38:52 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:50
+[13-May-2016 22:39:32 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 50
+[13-May-2016 22:39:32 UTC] PHP Stack trace:
+[13-May-2016 22:39:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:39:32 UTC] PHP   2. DAO_Usuario->insert() /home/ubuntu/workspace/MVC/Controller/verification.php:29
+[13-May-2016 22:39:32 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/MVC/DAO/Usuario.php:50
+[13-May-2016 22:41:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Duplicate entry 'joao@gmail.com' for key 'email'' in /home/ubuntu/workspace/MVC/DAO/Usuario.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/MVC/Controller/verification.php(28): DAO_Usuario->insert(Object(Model_Usuario))
+#1 {main}
+  thrown in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 54
+[13-May-2016 22:50:27 UTC] PHP Fatal error:  Cannot redeclare class Model_Usuario in /home/ubuntu/workspace/MVC/Model/Usuario.php on line 2
+[13-May-2016 22:50:27 UTC] PHP Stack trace:
+[13-May-2016 22:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:51:36 UTC] PHP Fatal error:  Call to undefined method DAO_Usuario::getSelectAll() in /home/ubuntu/workspace/MVC/Controller/verification.php on line 24
+[13-May-2016 22:51:36 UTC] PHP Stack trace:
+[13-May-2016 22:51:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:51:50 UTC] PHP Fatal error:  Call to undefined method Model_Usuario::setDate() in /home/ubuntu/workspace/MVC/DAO/Usuario.php on line 90
+[13-May-2016 22:51:50 UTC] PHP Stack trace:
+[13-May-2016 22:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/Controller/verification.php:0
+[13-May-2016 22:51:50 UTC] PHP   2. DAO_Usuario->selectAll() /home/ubuntu/workspace/MVC/Controller/verification.php:24
+[18-May-2016 21:23:52 UTC] PHP Warning:  include(/home/ubuntu/workspace/Layout/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/View/index.php on line 1
+[18-May-2016 21:23:52 UTC] PHP Stack trace:
+[18-May-2016 21:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:52 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Layout/Header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/View/index.php on line 1
+[18-May-2016 21:23:52 UTC] PHP Stack trace:
+[18-May-2016 21:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:52 UTC] PHP Warning:  include(/home/ubuntu/workspace/Layout/Footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:23:52 UTC] PHP Stack trace:
+[18-May-2016 21:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:52 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Layout/Footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:23:52 UTC] PHP Stack trace:
+[18-May-2016 21:23:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:54 UTC] PHP Warning:  include(/home/ubuntu/workspace/Layout/Header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/View/index.php on line 1
+[18-May-2016 21:23:54 UTC] PHP Stack trace:
+[18-May-2016 21:23:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:54 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Layout/Header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/View/index.php on line 1
+[18-May-2016 21:23:54 UTC] PHP Stack trace:
+[18-May-2016 21:23:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:54 UTC] PHP Warning:  include(/home/ubuntu/workspace/Layout/Footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:23:54 UTC] PHP Stack trace:
+[18-May-2016 21:23:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:23:54 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Layout/Footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:23:54 UTC] PHP Stack trace:
+[18-May-2016 21:23:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:24:09 UTC] PHP Warning:  include(/home/ubuntu/workspace/Layout/Footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:24:09 UTC] PHP Stack trace:
+[18-May-2016 21:24:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
+[18-May-2016 21:24:09 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Layout/Footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/MVC/View/index.php on line 58
+[18-May-2016 21:24:09 UTC] PHP Stack trace:
+[18-May-2016 21:24:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/MVC/View/index.php:0
